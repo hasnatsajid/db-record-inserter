@@ -1,0 +1,132 @@
+account_number,account_name
+1001,Bank of America- Checking -Acct. 6488
+1002,PNC- Operating Checking Acct. ...0404
+1003,PNC- Savings Acct. ...0367
+1004,PNC- Meredith Liu Acct. ...3155
+1005,Bank of America- Interest Earning Checking -Acct. 8984
+1006,Brookline Bank- Checking Acct. ...0276
+1007,JPMorgan Chase Bank- Checking Acct. ...0650
+1008,Bank of America- Checking II -Acct. 6491
+1010,Bill.com Clearing Account
+1072,Bill.com Money Out Clearing
+1100,Restricted Cash-Fund held for other
+1101,Contra-Restricted cash-Fund held for other
+1115,Legal Bond
+1200,Grants and Accounts Receivable
+1201,Acct. Receivable Place holder
+1210,Miscellaneous Receivable (Employee Related)
+1301,Unbilled - AC Grants Receivable
+1311,Billed - AC Grants Receivable
+1400,Prepaid Insurance
+1410,Prepaid Expenses (not insurance)
+1450,STA Security Deposits
+1500,ST Investment
+1600,LTA Security Deposits
+1700,Long Term Grants Receivable
+1710,Present Value Discount on LT Investment
+1800,"Computer, Furniture, and Equipment"
+1810,Accumulated Depreciation
+1899,Fixed Asset Clearing Account
+1999,Undeposited Funds
+2000,Accounts Payable
+2001,Accounts Payable - Other
+2020,Due To Miscellaneous
+2030,Credit Card Payable
+2031,Credit Card Payable - Other
+2032,AP Clearing Acct
+2040,Accrued Expenses
+2050,Accrued Payroll and PR Taxes
+2060,Accrued Exps-Straight Line Rental Exp
+2070,PTO Balance Accrued
+2100,Accrued Fellow Stipends
+2201,State Unemployment Insurance
+2300,401k Withheld
+2350,HSA -Optum Bank
+2400,FSA Withholding
+2450,TRANSIT Withholding
+2451,Aflac Benefits Withholdings
+2452,Dependent Care Withholdings
+2455,Tax withhold - Unregistered States
+2500,Line of Credit Payable
+2550,Loan Payable
+2600,Funds Held for Others
+3000,Net Assets
+3500,Net Assets (Adjustments)
+4000,Individual Donations
+4010,Corporate Grants
+4020,Foundation Grants
+4030,Program Income
+4040,Platform/License Income
+4050,Widespread Income
+4100,Federal & SC Grants
+4150,Unbilled- Federal & SC Grants
+4200,In-Kind Contributions
+4250,Interest and Other Income
+4302,Release Restriction to Unrestricted Fund
+4350,Gain on Acquisition
+6100,Staff Salaries
+6110,Saga Fellow Stipend
+6120,Bonus
+6150,PR Taxes for Staff Salaries
+6160,Staff Insurances
+6170,Staff Health Insurance
+6175,Staff Dental and Vision Insurance
+6180,Staff Fringe Benefits- Morale Food (No Alcohol)
+6185,401K Match
+6190,Staff Fringe Cost Allocation
+6199,Staff Fringe Cost Allocation- Contra
+6200,AmeriCorps Saga Fellow Stipend
+6210,AmeriCorps PR Taxes
+6220,Fellow Stipends
+6240,Fellow PR Taxes
+6270,AmeriCorps Fellows Workers Compensation
+6280,AmeriCorps Health Insurance
+6290,AmeriCorps Fellow Dental and Vision Insurance
+6295,Staff Condolence/Morale
+6300,Consultants and Contracted Services
+6310,Contingency for Project
+6350,Professional Services- Accounting and Legal Fees
+6360,Software and Subscription Services
+6361,A/V Hosting
+6362,Server Hosting Expense
+6370,Professional Development
+6371,Sponsored Conferences/Events
+6380,Business Registration and Filing Fees
+6400,Space Rental
+6420,Rent and Utilities
+6430,Postage and Mailing Services
+6440,Printing and Copying
+6450,Phone and Internet expenses
+6500,Classroom Supplies
+6510,Office Supplies
+6515,Hardware -Laptop and Tech Equipment
+6550,Fellow/Staff Swag and Gear
+6600,Bank Service Fees and Charges
+6615,Merchant fees
+6650,Bank Line of Credit Fees
+6700,Meals Business Development
+6720,Meals All Staff Events
+6730,Meals Per Diem
+6740,Meals Team Meetings
+6745,Alcohol Beverage for Meetings
+6750,Mileage Reimbursement
+6755,Career Fairs Fees
+6756,Fellow/Tutor Posting
+6757,Staff Position Posting
+6758,Marketing Promotional Cost
+6759,Digital Marketing
+6760,Travel- CNCS Meetings
+6770,Fellow Emergency Relief Fund
+6780,Student Incentives
+6790,Tutor/Staff Incentive/Appreciation
+6800,Depreciation Expense
+6810,Travel
+6820,Background Checks for Staff
+6830,Background Checks for AmeriCorps Fellows
+6840,"Insurances -Commercial, package, Cyber Liability, Directors, Officer's, etc."
+6850,AmeriCorps Fellows Payroll Processing Fees
+6860,Staff Payroll Processing Fees
+6870,Misc Expenses & WM Ops Expenses
+6900,Indirect OH for federal awards
+6920,Indirect OH Charge
+6950,Disallowances
